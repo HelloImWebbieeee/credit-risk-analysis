@@ -1,0 +1,26 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.out
+*.nav
+*.snm
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
